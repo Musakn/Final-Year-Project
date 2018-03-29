@@ -1,0 +1,127 @@
+
+#DDDnavbar li a:hover{
+	background-color: orange;
+	
+
+}
+#DDDnavbar{
+	margin-bottom: 0;
+}
+.clear{
+	 clear: both;
+}
+#HomeBootstraps
+{
+	text-align: center;
+	color:red;
+	
+}
+#headinddiv{
+	text-align: center;
+	padding-top: 10px;
+	margin-top: 20px;
+	color: grey;
+}
+.captiondiv{
+	text-align: center;
+	padding-top: 1px;
+   color: grey;
+}
+.Textfiled{
+	text-align: center;
+	padding-top: 3px;
+}
+
+#col{
+	width: 45%;
+	margin-top: 10%;
+	padding-bottom: 5%;
+    border: 2px solid #ccc;
+    background-color: #f2f2f2;
+
+
+}
+#Loginform{
+	background-color:grey;
+	 border: 50px solid red;
+
+	min-height: 300px;
+	opacity: 0.60;
+	padding: 50px 100px;
+}
+.username{
+	font-size:30px;
+	font-family: Times;
+	color:white;
+}
+#filedsicon{
+	background-color: brown;
+	border: #A52A2A;
+}
+#Email{
+	border-radius: 1px;
+	height: 40px;
+}
+
+#AnyQuery
+{
+	height: 100px;
+	font-family: Times;
+	color:grey;
+}
+.Radiobutton{
+	padding-top: 20px;
+}
+#HeadingHome{
+	margin-top: 20px;
+	
+	
+}
+
+#paragraph{
+	text-align: justify;
+}
+#footercontainer{
+	background-color:black; 
+	margin-top:40px;
+}
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 70%;
+      margin: auto;
+  }
+#SereachButton{
+  	margin-left: 200px;
+  }
+#SereachButtonAlphabit{
+	padding: 20px;
+	margin: 10px;
+}
+#SereachButtonAlphabit:hover{
+	background: green;
+}
+#navbarfooter{
+	background: black;
+	position: relative;
+	margin-top: -100px;
+	clear: both;
+}
+
+.bottom_ul{
+	background-color::#3B5998;
+	list-style-type:none;
+	font-size:20px;
+	
+}
+.bottom_ul li{
+	float:right;
+	height:40px;
+	line-height:40px;
+}
+#Footer_left{
+	font:20px;
+	float:left;
+	height:40px;
+	line-height:40px;
+}
+  
